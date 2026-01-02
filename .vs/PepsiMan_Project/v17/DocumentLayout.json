@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|d:\\university\\game\\hw3_erfan\\pepsiman_project\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,11 +15,7 @@
       "RelativeMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|d:\\university\\game\\hw3_erfan\\pepsiman_project\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|d:\\university\\game\\hw3_erfan\\pepsiman_project\\assets\\scripts\\roadgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\assets\\scripts\\roadgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6189331-B3FE-6533-EBB2-C883CC3E45BB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\roadgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -38,25 +38,24 @@
               "RelativeToolTip": "Assets\\Scripts\\RoadGenerator.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAA3wC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T15:38:05.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T15:38:05.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UIManager.cs",
               "DocumentMoniker": "D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\Assets\\Scripts\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
               "ToolTip": "D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\Assets\\Scripts\\UIManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T15:26:55.443Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ObstacleManager.cs",
               "DocumentMoniker": "D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\Assets\\Scripts\\ObstacleManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleManager.cs",
@@ -64,12 +63,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ObstacleManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T15:21:32.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T15:21:32.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "D:\\university\\game\\HW3_erfan\\PepsiMan_Project\\Assets\\Scripts\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
